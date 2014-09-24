@@ -81,11 +81,11 @@ public class GitLab implements EntryPoint {
 		RootPanel.get("root").add(flexTable);
 		
 
-		flexTable.setText(0,0, "TURN");
+		flexTable.setText(0,0, "BOOTY");
 		
-		flexTable.setText(0,1,"DOWN");
-		flexTable.setText(0,2, "FOR");
-		flexTable.setText(0,3, "WHAT");
+		flexTable.setText(0,1,"BOOTY");
+		flexTable.setText(0,2, "BOOTY");
+		flexTable.setText(0,3, "BOOTY");
 		flexTable.setStyleName("centered-table", true);
 		
 		for(int i=0; i < users.size(); i++)
