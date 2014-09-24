@@ -80,6 +80,7 @@ public class GitLab implements EntryPoint {
 
 		RootPanel.get("root").add(flexTable);
 		
+
 		flexTable.setText(0,0, "TURN");
 		
 		flexTable.setText(0,1,"DOWN");
